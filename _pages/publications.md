@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-Full list of papers: [Google Scholar](https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate).
+Selected publications in reversed chronological order. Full list of papers: [Google Scholar](https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate).
 
 
 <style>

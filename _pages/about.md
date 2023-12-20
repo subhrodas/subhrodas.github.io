@@ -26,7 +26,7 @@ I am a Staff Research Scientist and Research Manager at the [MIT-IBM AI Lab](htt
 My research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning, Dynamical Systems and ML Optimization methods. At the MIT-IBM AI Lab, my research work focuses on uncertainty quantification and human-centric system design for Large Language Models; deep learning for time-series; and, robust, accelerated & distributed optimization methods.
 
 
-My research papers are published in top machine learning and signal processing venues, including ICML, NeurIPS, ICLR, AAAI, AISTATS, EACL, IEEE Transactions on Signal Processing and ICASSP. I am an IBM Master Inventor and have filed 25+ patents in machine learning. <br>
+My research papers are published in top machine learning and signal processing venues, including ICML, NeurIPS, ICLR, AAAI, AISTATS, EACL, IEEE Transactions on Signal Processing and ICASSP. I am an [IBM Master Inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) and have filed 25+ patents in machine learning. <br>
 
 <p style="margin-top:5m;"><font size="+2"><b>Education</b></font></p>
 
