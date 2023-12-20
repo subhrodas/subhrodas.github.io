@@ -55,6 +55,11 @@ PhD, <i>Electrical & Computer Engineering</i>, Carnegie Mellon University, 2016.
 </ul>
 
 
+
+<p style="margin-top:5m;"><font size="+2"><b>Students</b></font></p>
+
+Mentored/supervised some outstanding graduate students during their internship and scholar programs at IBM Research: Quang Nguyen (PhD, MIT), Tuomas Oikarinen (PhD, UC San Diego), Maohao Shen (PhD, MIT), Eli Lucherini (PhD, Princeton), Kadeem Noray (PhD, Harvard), Ran Xin (PhD, CMU), Nicholas Borge (MS, MIT), Yingying Li (PhD, Harvard), Joshua Lee (PhD, MIT), Renzhe Yu (PhD, UC Irvine), Orlando Romero (PhD, RPI), Nathan Hunt (PhD, MIT). Aside from them, collaborated with several students and postdocs from multiple universities.
+
 <!-- Biography will be updated here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
