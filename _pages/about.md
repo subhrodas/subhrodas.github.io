@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am a Staff Research Scientist and Research Manager at the [MIT-IBM AI Lab](https://mitibmwatsonailab.mit.edu/) in IBM Research, Cambridge MA. As a Research Affiliate at MIT and Principal Investigator (PI), I work on developing novel deep learning algorithms in collaboration with MIT researchers. 
+I am a Staff Research Scientist and Research Manager at the [MIT-IBM AI Lab](https://mitibmwatsonailab.mit.edu/) in [IBM Research](https://research.ibm.com/). As a Research Affiliate at MIT and Principal Investigator (PI), I work on developing novel deep learning algorithms in collaboration with MIT researchers. 
 
 My research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning, Dynamical Systems and ML Optimization methods. At the MIT-IBM AI Lab, my research work focuses on uncertainty quantification and human-centric system design for Large Language Models; deep learning for time-series; and, robust, accelerated & distributed optimization methods.
 
@@ -56,9 +56,9 @@ PhD, <i>Electrical & Computer Engineering</i>, Carnegie Mellon University, 2016.
 
 
 
-<p style="margin-top:5m;"><font size="+2"><b>Students</b></font></p>
+<p style="margin-top:8mm;"><font size="+2"><b>Students</b></font></p>
 
-Mentored/supervised some outstanding graduate students during their internship and scholar programs at IBM Research: Quang Nguyen (PhD, MIT), Tuomas Oikarinen (PhD, UC San Diego), Maohao Shen (PhD, MIT), Eli Lucherini (PhD, Princeton), Kadeem Noray (PhD, Harvard), Ran Xin (PhD, CMU), Nicholas Borge (MS, MIT), Yingying Li (PhD, Harvard), Joshua Lee (PhD, MIT), Renzhe Yu (PhD, UC Irvine), Orlando Romero (PhD, RPI), Nathan Hunt (PhD, MIT). Aside from them, collaborated with several students and postdocs from multiple universities.
+Mentored/supervised some outstanding graduate students during their internship and scholar programs at IBM Research: [Quang Nguyen](https://www.linkedin.com/in/quang-m-nguyen-191122b3) (PhD, MIT), [Tuomas Oikarinen](https://www.linkedin.com/in/tuomas-oikarinen-331676171) (PhD, UC San Diego), [Maohao Shen](https://maohaos2.github.io/Maohao) (PhD, MIT), [Eli Lucherini](https://www.cs.princeton.edu/~el24) (PhD, Princeton), [Kadeem Noray](https://kadeemnoray.com) (PhD, Harvard), [Ran Xin](https://www.linkedin.com/in/ran-xin-51b272172) (PhD, CMU), [Nicholas Borge](https://www.linkedin.com/in/nicholasborge) (MS, MIT), [Yingying Li](https://yingying.li) (PhD, Harvard), [Joshua Lee](https://www.linkedin.com/in/joshua-lee-303084185) (PhD, MIT), [Renzhe Yu](https://renzheyu.com) (PhD, UC Irvine), [Orlando Romero](https://scholar.google.com/citations?user=UfQg91QAAAAJ&hl=en) (PhD, RPI), [Nathan Hunt](https://www.linkedin.com/in/neighthan) (PhD, MIT). Aside from them, collaborated with several students and postdocs from multiple universities.
 
 <!-- Biography will be updated here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
