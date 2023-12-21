@@ -14,11 +14,11 @@ nav_order: 2
 <ul>
 
 
-<li> Accomplishment Award for <i>“Research Contributions to Time Series Foundation Models”</i>, IBM Research, 2023. </li>
+<li> Accomplishment Award for <i>Research Contributions to Time Series Foundation Models</i>, IBM Research, 2023. </li>
 
 <li> Two <i>Outstanding Technical Achievement</i> Awards, IBM Research, 2023. </li>
   
-<li> IBM Invention Achievement Awards: 2017; 2019 (First Plateau); 2020 (Second Plateau); 2021 (Third Plateau); 2022 (Fourth Plateau); 2022 (three High Value Patent awards); 2023 (Fifth Plateau); 2023 (Sixth Plateau). </li>
+<li> IBM Invention Achievement Awards: 2019 (First Plateau); 2020 (Second Plateau); 2021 (Third Plateau); 2022 (Fourth Plateau); 2022 (three High Value Patent awards); 2023 (Fifth Plateau, Sixth Plateau). </li>
   
 <li> Elevated to <i>IBM Master Inventor</i>, Class of 2022. </li>
   
@@ -30,7 +30,7 @@ nav_order: 2
   
 <li> IBM <i>Outstanding Technical Achievement</i> Award, 2021. </li>
   
-<li> Special Division Accomplishment Award, for Research Contributions to IBM COVID-19 Tech Taskforce, 2020. </li>
+<li> Special Division Accomplishment Award for <i>Research Contributions to IBM COVID-19 Tech Taskforce</i>, 2020. </li>
   
 <li> <i>Distinguished Paper Award</i>, American Medical Informatics Association, 2018. <a href='https://amia.org/about-amia/amia-awards/research-awards/distinguished-paper-awards'>AMIA Web</a> </li>
   
