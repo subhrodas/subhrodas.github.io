@@ -7,20 +7,60 @@ nav_order: 1
 ---
 
 
-Full list of papers: [Google Scholar](https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate). <b>Selected publications</b> in reversed chronological order. 
+<b>Recent work</b> (papers under review): 
 
+
+<ul>
+
+<li> <a href='https://arxiv.org/abs/2404.02806'>The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers</a> <br>
+Hussein Mozannar, Valerie Chen, Mohammed Alsobay, <i>Subhro Das</i>, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, David Sontag <br>
+arXiv preprint arXiv:2404.02806, 2024. </li>
+
+
+<li> <a href='https://arxiv.org/abs/2403.08819'>Thermometer: Towards Universal Calibration for Large Language Models</a> <br>
+Maohao Shen, <i>Subhro Das</i>, Kristjan Greenewald, Prasanna Sattigeri, Gregory Wornell, Soumya Ghosh <br>
+arXiv preprint arXiv:2403.08819, 2024. </li>
+
+
+<li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
+J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
+arXiv preprint arXiv:2402.06160, 2024. </li>
+
+
+<li> <a href='https://arxiv.org/abs/2311.11959'>Correlated Attention in Transformers for Multivariate Time Series</a> <br>
+Quang Nguyen, Lam Nguyen, <i>Subhro Das</i> <br>
+arXiv preprint arXiv:2311.11959, 2023. </li>
+
+
+<li> <a href='https://arxiv.org/abs/2303.00883'>Variance-reduced clipping for non-convex optimization</a> <br>
+Amirhossein Reisizadeh, Haochuan Li, <i>Subhro Das</i>, Ali Jadbabaie <br>
+arXiv preprint arXiv:2303.00883, 2023. </li>
+
+
+</ul>
 
 <style>
     ul li { margin-bottom: 10px; }
 </style>
 
+
+
+<p style="margin-top:8mm;"><font size="+1"><b>Selected publications</b></font> in reversed chronological order. Full list of papers: <a href='https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>.</p>
+
+<!-- <b>Selected publications</b> in reversed chronological order. Full list of papers: [Google Scholar](https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate).  -->
+
+
 <ul>
 
-<li> One step closer to unbiased aleatoric uncertainty estimation <br>
+<li> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29627'>One step closer to unbiased aleatoric uncertainty estimation</a> <br>
 Wang Zhang, Martin Ma, <i>Subhro Das</i>, Lily Weng, Alexandre Megretski, Luca Daniel, Lam Nguyen <br>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024. </li>
 
-<li> A model for estimating the economic costs of computer vision systems that use deep learning <br>
+<li> <a href='https://doi.org/10.1016/j.artint.2024.104094'>Decentralized fused-learner architectures for Bayesian reinforcement learning</a> <br>
+Augustin Saucan, <i>Subhro Das</i>, Moe Win <br>
+Artificial Intelligence Journal, 2024. </li>
+
+<li> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/30343'>A model for estimating the economic costs of computer vision systems that use deep learning</a> <br>
 Neil Thompson, Martin Fleming, Benny Tang, Anna Pastwa, Nicholas Borge, Brian Goehring, <i>Subhro Das</i> <br>
 Conference on Innovative Applications of Artificial Intelligence (<b>IAAI</b>), 2024. </li>
   
