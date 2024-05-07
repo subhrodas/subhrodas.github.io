@@ -17,11 +17,6 @@ Hussein Mozannar, Valerie Chen, Mohammed Alsobay, <i>Subhro Das</i>, Sebastian Z
 arXiv preprint arXiv:2404.02806, 2024. </li>
 
 
-<li> <a href='https://arxiv.org/abs/2403.08819'>Thermometer: Towards Universal Calibration for Large Language Models</a> <br>
-Maohao Shen, <i>Subhro Das</i>, Kristjan Greenewald, Prasanna Sattigeri, Gregory Wornell, Soumya Ghosh <br>
-arXiv preprint arXiv:2403.08819, 2024. </li>
-
-
 <li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
 J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
 arXiv preprint arXiv:2402.06160, 2024. </li>
@@ -51,6 +46,12 @@ arXiv preprint arXiv:2303.00883, 2023. </li>
 
 
 <ul>
+
+
+<li> <a href='https://arxiv.org/abs/2403.08819'>Thermometer: Towards Universal Calibration for Large Language Models</a> <br>
+Maohao Shen, <i>Subhro Das</i>, Kristjan Greenewald, Prasanna Sattigeri, Gregory Wornell, Soumya Ghosh <br>
+International Conference on Machine Learning (<b>ICML</b>), 2024. </li>
+
 
 <li> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29627'>One step closer to unbiased aleatoric uncertainty estimation</a> <br>
 Wang Zhang, Martin Ma, <i>Subhro Das</i>, Lily Weng, Alexandre Megretski, Luca Daniel, Lam Nguyen <br>
