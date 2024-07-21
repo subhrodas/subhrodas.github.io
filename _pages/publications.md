@@ -16,6 +16,9 @@ nav_order: 1
 Hussein Mozannar, Valerie Chen, Mohammed Alsobay, <i>Subhro Das</i>, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, David Sontag <br>
 arXiv preprint arXiv:2404.02806, 2024. </li>
 
+<li> <a href='https://openreview.net/pdf?id=EciNEiW1uq'>Long Context Understanding using Self-Generated Synthetic Data</a> <br>
+Jerry Li, <i>Subhro Das</i>, Aude Oliva, Dmitry Krotov, Leonid Karlinsky, Rogerio Feris <br>
+Workshop preprint, ICML Workshop on Long-Context Foundation Models, 2024. </li>
 
 <li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
 J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
