@@ -45,11 +45,11 @@ arXiv preprint arXiv:2303.00883, 2023. </li>
 <ul>
 
 <li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
-Nima Dehmamy, Csaba Both, Jeet Mohapatra, <i>Subhro Das</i>, Tommi Jaakkola <br>
+J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
 Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
 <li> <a href='https://arxiv.org/abs/2402.06160'>Neural Network Reparametrization for Accelerated Optimization in Molecular Simulations</a> <br>
-J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
+Nima Dehmamy, Csaba Both, Jeet Mohapatra, <i>Subhro Das</i>, Tommi Jaakkola <br>
 Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
 <li> <a href='https://arxiv.org/abs/2403.08819'>Thermometer: Towards Universal Calibration for Large Language Models</a> <br>
