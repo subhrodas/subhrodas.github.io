@@ -13,6 +13,8 @@ nav_order: 4
 
 <ul>
 
+<li> MIT News: <a href='https://news.mit.edu/2024/thermometer-prevents-ai-model-overconfidence-about-wrong-answers-0731'>Method prevents an AI model from being overconfident about wrong answers</a>, 2024.</li>
+
 <li> MIT News: <a href='https://news.mit.edu/2023/automated-system-teaches-collaborate-ai-assistant-1208'>Automated system teaches users when to collaborate with an AI assistant</a>, 2023.</li>
   
 <li> MIT News: <a href='https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213'>Efficient technique improves machine-learning models’ reliability</a>, 2023.</li>

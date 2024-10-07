@@ -20,15 +20,9 @@ arXiv preprint arXiv:2404.02806, 2024. </li>
 Jerry Li, <i>Subhro Das</i>, Aude Oliva, Dmitry Krotov, Leonid Karlinsky, Rogerio Feris <br>
 Workshop preprint, ICML Workshop on Long-Context Foundation Models, 2024. </li>
 
-<li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
-J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
-arXiv preprint arXiv:2402.06160, 2024. </li>
-
-
 <li> <a href='https://arxiv.org/abs/2311.11959'>Correlated Attention in Transformers for Multivariate Time Series</a> <br>
 Quang Nguyen, Lam Nguyen, <i>Subhro Das</i> <br>
 arXiv preprint arXiv:2311.11959, 2023. </li>
-
 
 <li> <a href='https://arxiv.org/abs/2303.00883'>Variance-reduced clipping for non-convex optimization</a> <br>
 Amirhossein Reisizadeh, Haochuan Li, <i>Subhro Das</i>, Ali Jadbabaie <br>
@@ -50,6 +44,13 @@ arXiv preprint arXiv:2303.00883, 2023. </li>
 
 <ul>
 
+<li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
+Nima Dehmamy, Csaba Both, Jeet Mohapatra, <i>Subhro Das</i>, Tommi Jaakkola <br>
+Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
+
+<li> <a href='https://arxiv.org/abs/2402.06160'>Neural Network Reparametrization for Accelerated Optimization in Molecular Simulations</a> <br>
+J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
+Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
 <li> <a href='https://arxiv.org/abs/2403.08819'>Thermometer: Towards Universal Calibration for Large Language Models</a> <br>
 Maohao Shen, <i>Subhro Das</i>, Kristjan Greenewald, Prasanna Sattigeri, Gregory Wornell, Soumya Ghosh <br>
