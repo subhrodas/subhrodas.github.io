@@ -48,7 +48,7 @@ arXiv preprint arXiv:2303.00883, 2023. </li>
 J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
 Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
-<li> <a href='https://arxiv.org/abs/2402.06160'>Neural Network Reparametrization for Accelerated Optimization in Molecular Simulations</a> <br>
+<li> Neural Network Reparametrization for Accelerated Optimization in Molecular Simulations <br>
 Nima Dehmamy, Csaba Both, Jeet Mohapatra, <i>Subhro Das</i>, Tommi Jaakkola <br>
 Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
