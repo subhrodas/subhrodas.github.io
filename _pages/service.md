@@ -19,12 +19,13 @@ nav_order: 3
 <li> <p>IEEE Senior Member. IEEE Leadership roles: </p> 
 
 <ul>
-    <li> <a href='https://signalprocessingsociety.org/our-story/board-governors'>Board of Governors</a>, IEEE Signal Processing Society, 2023 - present. </li>
+    <li> <a href='https://signalprocessingsociety.org/our-story/board-governors'>Board of Governors</a>, IEEE Signal Processing Society, Jan 2023 - Dec 2026. </li>
+    <li> <a href='https://signalprocessingsociety.org/our-story/membership-board'>Regional Director-at-Large</a> (Regions 1-6), IEEE Signal Processing Society, Jan 2025 - Dec 2026. </li>
     <li> Senior Area Editor (2023-present) & Associate Editor (2019-2023), IEEE <a href='https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing/editorial-board'>Transactions on Signal Processing</a>. </li>
-    <li> Associate Editor, IEEE <a href='https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/editorial-board'>Signal Processing Magazine eNewsletter</a>. </li>
-    <li> Elected Member, IEEE <a href='https://signalprocessingsociety.org/community-involvement/machine-learning-signal-processing/mlsp-tc-home'>Machine Learning for Signal Processing (MLSP) Technical Committee</a>. </li>
-    <li> Associate Member, IEEE <a href='https://signalprocessingsociety.org/community-involvement/signal-processing-theory-and-methods/members'>Signal Processing Theory and Methods (SPTM) Technical Committee</a>. </li>
-    <li> <p>Committee Chair, IEEE <a href='https://signalprocessingsociety.org/our-story/standing-committees#dexp-accordion-item--9'>Young Professionals in Signal Processing</a>. </p> </li>
+    <li> Elected Member, IEEE <a href='https://signalprocessingsociety.org/community-involvement/machine-learning-signal-processing/mlsp-tc-home'>Machine Learning for Signal Processing (MLSP) Technical Committee</a>, Jan 2021 - Dec 2026. </li>
+    <li> Associate Member, IEEE <a href='https://signalprocessingsociety.org/community-involvement/signal-processing-theory-and-methods/members'>Signal Processing Theory and Methods (SPTM) Technical Committee</a>, Jan 2021 - Dec 2025. </li>
+    <li> <p>Committee Chair (Jan 2023 - Dec 2024) & Committee Member (Jan 2018 - Dec 2022), IEEE <a href='https://signalprocessingsociety.org/community-involvement/young-professionals'>Young Professionals in Signal Processing</a>. </p> </li>
+    <li> Associate Editor, IEEE <a href='https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/editorial-board'>Signal Processing Magazine eNewsletter</a>, 2021 - 2024. </li> 
 
 </ul> </li>
   

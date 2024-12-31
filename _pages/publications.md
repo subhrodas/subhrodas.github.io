@@ -6,49 +6,53 @@ nav: true
 nav_order: 1
 ---
 
-
+<!-- 
 <b>Recent work</b> (papers under review): 
 
-
 <ul>
-
-<li> <a href='https://arxiv.org/abs/2404.02806'>The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers</a> <br>
-Hussein Mozannar, Valerie Chen, Mohammed Alsobay, <i>Subhro Das</i>, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, David Sontag <br>
-arXiv preprint arXiv:2404.02806, 2024. </li>
 
 <li> <a href='https://openreview.net/pdf?id=EciNEiW1uq'>Long Context Understanding using Self-Generated Synthetic Data</a> <br>
 Jerry Li, <i>Subhro Das</i>, Aude Oliva, Dmitry Krotov, Leonid Karlinsky, Rogerio Feris <br>
 Workshop preprint, ICML Workshop on Long-Context Foundation Models, 2024. </li>
 
-<li> <a href='https://arxiv.org/abs/2311.11959'>Correlated Attention in Transformers for Multivariate Time Series</a> <br>
-Quang Nguyen, Lam Nguyen, <i>Subhro Das</i> <br>
-arXiv preprint arXiv:2311.11959, 2023. </li>
-
-<li> <a href='https://arxiv.org/abs/2303.00883'>Variance-reduced clipping for non-convex optimization</a> <br>
-Amirhossein Reisizadeh, Haochuan Li, <i>Subhro Das</i>, Ali Jadbabaie <br>
-arXiv preprint arXiv:2303.00883, 2023. </li>
-
-
 </ul>
+-->
 
 <style>
     ul li { margin-bottom: 10px; }
 </style>
 
 
-
 <p style="margin-top:8mm;"><font size="+1"><b>Selected publications</b></font> in reversed chronological order. Full list of papers: <a href='https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>.</p>
 
-<!-- <b>Selected publications</b> in reversed chronological order. Full list of papers: [Google Scholar](https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate).  -->
+
+<!-- <b>Selected publications</b> in reversed chronological order. Full list of papers: [Google Scholar](https://scholar.google.com/citations?hl=en&user=8cqcuYIAAAAJ&view_op=list_works&sortby=pubdate). -->
 
 
 <ul>
+
+
+<li> <a href='https://arxiv.org/abs/2404.02806'>The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers</a> <br>
+Hussein Mozannar, Valerie Chen, Mohammed Alsobay, <i>Subhro Das</i>, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, David Sontag <br>
+Transactions on Machine Learning Research (<b>TMLR</b>), 2025. </li>
+
+<li> <a href='https://arxiv.org/abs/2311.11959'>Correlated Attention in Transformers for Multivariate Time Series</a> <br>
+Quang Nguyen, Lam Nguyen, <i>Subhro Das</i> <br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2025. </li>
+
+<li> Dilated Convolution for Time Series Learning <br>
+Wang Zhang, <i>Subhro Das</i>, Lam Nguyen, Luca Daniel <br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2025. </li>
+
+<li> <a href='https://arxiv.org/abs/2303.00883'>Variance-reduced clipping for non-convex optimization</a> <br>
+Amirhossein Reisizadeh, Haochuan Li, <i>Subhro Das</i>, Ali Jadbabaie <br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2025. </li>
 
 <li> <a href='https://arxiv.org/abs/2402.06160'>Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions</a> <br>
 J. Jon Ryu, Maohao Shen, Soumya Ghosh, Yuheng Bu, Prasanna Sattigeri, <i>Subhro Das</i>, Gregory Wornell <br>
 Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
-<li> Neural Network Reparametrization for Accelerated Optimization in Molecular Simulations <br>
+<li> <a href='https://openreview.net/pdf?id=FwxOHl0BEl'>Neural Network Reparametrization for Accelerated Optimization in Molecular Simulations</a> <br>
 Nima Dehmamy, Csaba Both, Jeet Mohapatra, <i>Subhro Das</i>, Tommi Jaakkola <br>
 Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 
