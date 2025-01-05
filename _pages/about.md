@@ -25,7 +25,7 @@ I am a Staff Research Scientist at the [MIT-IBM AI Lab](https://mitibmwatsonaila
 
 My research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning, Dynamical Systems and ML Optimization methods. At the MIT-IBM AI Lab, my research work focuses on long-context understanding, uncertainty quantification and human-centric system design for Large Language Models, and time-series foundation models.
 
-Currently, working on post-training techniques and alignment methods for LLMs, especially in fine-tuning, instruction tuning and prompt optimization. Generating large-scale long-context instruction following data, with variety of reasoning tasks, for training Granite models. Contributing in the post-training stage of multimodal model developments, primarily in the Speech-Language and Vision-Language models. 
+Currently, working on post-training techniques and alignment methods for LLMs, especially in fine-tuning, instruction tuning, synthetic data generation and prompt optimization. Generating large-scale long-context instruction following data, with variety of reasoning tasks, for training Granite models. Contributing in the post-training stage of multimodal model developments, primarily in the Speech-Language and Vision-Language models. 
 
 My research papers are published in top machine learning and signal processing venues, including ICML, NeurIPS, ICLR, AAAI, AISTATS, EACL, Transactions on Machine Learning Research, IEEE Transactions on Signal Processing and ICASSP. I am an [IBM Master Inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) and have filed 25+ patents in machine learning. <br>
 
