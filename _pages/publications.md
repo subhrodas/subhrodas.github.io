@@ -31,6 +31,14 @@ Workshop preprint, ICML Workshop on Long-Context Foundation Models, 2024. </li>
 
 <ul>
 
+<li> <a href='https://arxiv.org/abs/2505.23604'>Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering</a> <br>
+Guangtao Zeng, Maohao Shen, Delin Chen, Zhenting Qi, <i>Subhro Das</i>, Dan Gutfreund, David Cox, Gregory Wornell, Wei Lu, Zhang-Wei Hong, Chuang Gan <br>
+Under Review, arXiv preprint arXiv:2505.23604, 2025. </li>
+
+<li> <a href='https://arxiv.org/abs/2502.09927'>Granite Vision: a lightweight, open-source multimodal model for enterprise intelligence</a> <br>
+IBM Granite Vision Team <br>
+Technical Report, arXiv preprint arXiv:2505.23604, 2025. </li>
+
 <li> <a href='https://arxiv.org/abs/2502.02508'>Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search</a> <br>
 Maohao Shen, Guangtao Zeng, Zhenting Qi, Zhang-Wei Hong, Zhenfang Chen, Wei Lu, Gregory Wornell, <i>Subhro Das</i>, David Cox, Chuang Gan <br>
 International Conference on Machine Learning (<b>ICML</b>), 2025. </li>
@@ -67,6 +75,9 @@ Neural Information Processing Systems (<b>NeurIPS</b>), 2024. </li>
 Maohao Shen, <i>Subhro Das</i>, Kristjan Greenewald, Prasanna Sattigeri, Gregory Wornell, Soumya Ghosh <br>
 International Conference on Machine Learning (<b>ICML</b>), 2024. </li>
 
+<li> <a href='https://openreview.net/pdf?id=EciNEiW1uq'>Long Context Understanding using Self-Generated Synthetic Data</a> <br>
+Jerry Li, <i>Subhro Das</i>, Aude Oliva, Dmitry Krotov, Leonid Karlinsky, Rogerio Feris <br>
+ICML Workshop on Long-Context Foundation Models, 2024. </li>
 
 <li> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29627'>One step closer to unbiased aleatoric uncertainty estimation</a> <br>
 Wang Zhang, Martin Ma, <i>Subhro Das</i>, Lily Weng, Alexandre Megretski, Luca Daniel, Lam Nguyen <br>
