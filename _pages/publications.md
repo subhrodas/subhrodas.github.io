@@ -31,6 +31,13 @@ Workshop preprint, ICML Workshop on Long-Context Foundation Models, 2024. </li>
 
 <ul>
 
+<li> <a href='https://arxiv.org/abs/2502.02508'>Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search</a> <br>
+Maohao Shen, Guangtao Zeng, Zhenting Qi, Zhang-Wei Hong, Zhenfang Chen, Wei Lu, Gregory Wornell, <i>Subhro Das</i>, David Cox, Chuang Gan <br>
+International Conference on Machine Learning (<b>ICML</b>), 2025. </li>
+
+<li> <a href='https://openreview.net/forum?id=VPHFKbhJIJ'>Symmetry-Driven Discovery of Dynamical Variables in Molecular Simulations</a> <br>
+Jeet Mohapatra, Nima Dehmamy, Csaba Both, <i>Subhro Das</i>, Tommi Jaakkola <br>
+International Conference on Machine Learning (<b>ICML</b>), 2025. </li>
 
 <li> <a href='https://arxiv.org/abs/2404.02806'>The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers</a> <br>
 Hussein Mozannar, Valerie Chen, Mohammed Alsobay, <i>Subhro Das</i>, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, David Sontag <br>
