@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Researcher. <a href='https://mitibmwatsonailab.mit.edu'>MIT-IBM AI Lab</a>
+subtitle: <a href='https://www.microsoft.com/en-us/research/people/subhrodas'>AI Researcher</a>. Microsoft
 
 profile:
   align: left
@@ -20,14 +20,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+Subhro Das is a Principal Applied Scientist in the [Applied Science](https://www.microsoft.com/en-us/research/group/odsp-applied-science) team at Microsoft. His research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning and ML Optimization methods. His work focuses on long-context understanding, uncertainty quantification and human-centric system design with large language and multimodal models.
 
-I am a Staff Research Scientist at the [MIT-IBM AI Lab](https://mitibmwatsonailab.mit.edu/) in [IBM Research](https://research.ibm.com/). As a Research Affiliate at MIT and Principal Investigator (PI), I work on developing novel deep learning algorithms in collaboration with MIT researchers. 
+Previously, he was a Staff Research Scientist / Research Manager at the [MIT-IBM AI Lab](https://mitibmwatsonailab.mit.edu/) in [IBM Research](https://research.ibm.com/) and a Research Affiliate at MIT. His research papers are published in top machine learning and signal processing venues, including ICML, NeurIPS, ICLR, AAAI, AISTATS, EACL, TMLR, IEEE TSP and ICASSP. He was an IBM Master Inventor and have filed 25+ patents in machine learning.
 
-My research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning, Dynamical Systems and ML Optimization methods. At the MIT-IBM AI Lab, my research work focuses on long-context understanding, uncertainty quantification and human-centric system design for Large Language Models, and time-series foundation models.
-
-Currently, working on post-training techniques and alignment methods for LLMs, especially in fine-tuning, instruction tuning, synthetic data generation and prompt optimization. Generating large-scale long-context instruction following data, with variety of reasoning tasks, for training Granite models. Contributed to the post-training of IBM's LLM [Granite 3.1](https://www.ibm.com/new/announcements/ibm-granite-3-1-powerful-performance-long-context-and-more), and multimodal model [Granite Vision](https://arxiv.org/abs/2502.09927). 
-
-My research papers are published in top machine learning and signal processing venues, including ICML, NeurIPS, ICLR, AAAI, AISTATS, EACL, Transactions on Machine Learning Research, IEEE Transactions on Signal Processing and ICASSP. I am an [IBM Master Inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) and have filed 25+ patents in machine learning. <br>
+He has deep expertise on post-training techniques and alignment methods for LLMs, especially in fine-tuning, instruction tuning, reinforcement learning and synthetic data generation. He developed a pipeline for large-scale long-context instruction following data generation, with variety of reasoning tasks, for training Granite (IBM's LLM) models. Contributed to the post-training of [Granite 3.1](https://www.ibm.com/new/announcements/ibm-granite-3-1-powerful-performance-long-context-and-more), and multimodal model [Granite Vision](https://arxiv.org/abs/2502.09927). <br>
 
 
 <style>
@@ -43,17 +40,21 @@ PhD, <i>Electrical & Computer Engineering</i>, Carnegie Mellon University, 2016.
 
 <p style="margin-top:8mm;"><font size="+2"><b>Appointments</b></font></p>
 
+<p style="margin-top:-2mm;"><b>Microsoft</b><br>
+Jun 2025 - present: Principal Applied Scientist, ODSP Applied Science, Cambridge, MA.<br>
+</p>
+
 <p style="margin-top:-2mm;"><b>IBM Research</b><br>
-2018 - present: Staff Research Scientist / Research Manager, AI Models. MIT-IBM AI Lab, Cambridge, MA.<br>
-2016 - 2018: Research Scientist, ML for Health. IBM T.J. Watson Research Center, Yorktown Heights, NY.<br>
+Nov 2018 - Jun 2025: Staff Research Scientist / Research Manager, AI Models. MIT-IBM AI Lab, Cambridge, MA.<br>
+Jul 2016 - Nov 2018: Research Scientist, ML for Health. IBM T.J. Watson Research Center, Yorktown Heights, NY.<br>
 </p>
 
 <p style="margin-top:4mm;"><b>Massachusetts Institute of Technology</b><br>
-2019 - present: Research Affiliate, Electrical Engineering & Computer Science. Cambridge, MA. 
+May 2019 - Jun 2025: Research Affiliate, Electrical Engineering & Computer Science. Cambridge, MA. 
 </p>
 
 
-<p style="margin-top:8mm;"><font size="+2"><b>Current MIT-IBM Research Grants</b></font></p>
+<p style="margin-top:8mm;"><font size="+2"><b>Past MIT-IBM Research Grants</b></font></p>
 
 <ul>
   <li> Human-Centric AI: Novel Algorithms for Shared Decision Making <br>
