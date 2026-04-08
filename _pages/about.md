@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Subhro Das is a Principal Applied Scientist in the [Applied Science](https://www.microsoft.com/en-us/research/group/odsp-applied-science) team at Microsoft. His research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning and ML Optimization methods. His work focuses on long-context understanding, uncertainty quantification and human-centric system design with large language and multimodal models.
+Subhro Das is a Principal Applied Scientist at Microsoft. His research interests are broadly in the areas of Representation Learning, Generative AI, Foundation Models, Trustworthy Machine Learning, Large Language Models, Reinforcement Learning and ML Optimization methods. His work focuses on long-context understanding, uncertainty quantification and human-centric system design with large language and multimodal models.
 
 Previously, he was a Staff Research Scientist / Research Manager at the [MIT-IBM AI Lab](https://mitibmwatsonailab.mit.edu/) in [IBM Research](https://research.ibm.com/) and a Research Affiliate at MIT. His research papers are published in top machine learning and signal processing venues, including ICML, NeurIPS, ICLR, AAAI, AISTATS, EACL, TMLR, IEEE TSP and ICASSP. He was an IBM Master Inventor and have filed 25+ patents in machine learning.
 
